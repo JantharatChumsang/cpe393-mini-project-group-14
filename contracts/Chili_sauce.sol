@@ -1922,7 +1922,7 @@ library Math {
  **********************************************************************************
  */
 
-contract Chili_sauce is ERC721A {
+contract Chili_sauceNFT is ERC721A {
     using Strings for uint256;
     uint256 public constant MAX_SUPPLY = 20;
     uint256 public constant START_TOKEN_ID = 1;
@@ -1955,7 +1955,7 @@ contract Chili_sauce is ERC721A {
     function mint(uint256 quantity) public payable {
         require(
             totalSupply() + quantity <= MAX_SUPPLY,
-            "imagee: exceed max supply"
+            "Chili_sauce: exceed max supply"
         );
         _mint(msg.sender, quantity);
     }
@@ -1963,7 +1963,7 @@ contract Chili_sauce is ERC721A {
     function tokenURI(
         uint256 tokenId
     ) public view virtual override returns (string memory) {
-        require(_exists(tokenId), "imagee: not exist");
+        require(_exists(tokenId), "Chili_sauce: not exist");
         string memory currentBaseURI = _baseURI();
         return (
             bytes(currentBaseURI).length > 0
