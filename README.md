@@ -1,9 +1,9 @@
-# Mini Project - Group 0
-### [Capybara Collection]
+# Mini Project - Group 14
+### [Chili sauce Collection]
 
 <b>Members</b>
-- 63070501000 - Capy Father
-- 63070501000 - Capy Mother
-- 63070501000 - Capy Member
+- 63070505206 - Thanaphon Phangsee 
+- 63070505216 - Jantharat Chumsang
+- 63070505219 - Nattapron Wiriyaprapanont
 
 `CPE393 | Blockchain Technology 2/2022`
