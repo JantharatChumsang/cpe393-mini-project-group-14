@@ -1,0 +1,35 @@
+{
+    "name": "Chili #16",
+    "description": "She passive-agressive.",
+    "image": "ipfs://QmbCvRK4y2kPBfsH69x5Dew3QGLQDnQYyzkeGWHBsd33mM",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #ff66c4, #ffde59"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Tan skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Red round ball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Close eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Burgundy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open mouth and see teeth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow headband with small heart pattern"
+      }
+    ]
+  }

@@ -1,0 +1,35 @@
+{
+    "name": "Chili #06",
+    "description": "Whoa",
+    "image": "ipfs://QmRSmDK99HEZmcwNfVjhGpp6aC96yEcZmttNgcsJZgLXEn",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #ff66c4, #ffde59"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Fair skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "ed round ball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Big eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open mouth showing upper teeth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Uncomfortable"
+      }
+    ]
+  }

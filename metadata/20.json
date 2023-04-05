@@ -1,0 +1,35 @@
+{
+    "name": "Chili #20",
+    "description": "Worried girl",
+    "image": "ipfs://QmcN4yimJVwFxAaFBCC3DAtL9cnRZX9y3bdM3ZiBK9jkkW",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #5de0e6, #004aad"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Fair skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Polka dot"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sad eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Burgundy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bewildered"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Uncomfortable"
+      }
+    ]
+  }
