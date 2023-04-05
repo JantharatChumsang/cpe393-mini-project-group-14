@@ -1,5 +1,5 @@
 # Mini Project - Group 14
-### [Chili sauce Collection]
+### [Chili sauce Collection]🌶️
 
 <b>Members</b>
 - 63070505206 - Thanaphon Phangsee 
