@@ -1,0 +1,35 @@
+{
+    "name": "Chili #2",
+    "description": "angry girl",
+    "image": "ipfs://QmV7QYVP9JwtNHhGgdEiBPGBDg6NzzYtNi7H5Ss9MzE8kK",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #000000, #c89116"
+      },
+      {
+        "trait_type": "skin",
+        "value": "vanilla skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Polka dot"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sad eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open mouth showing upper teeth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow headband with small heart pattern"
+      }
+    ]
+  }

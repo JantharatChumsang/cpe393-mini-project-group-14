@@ -1,0 +1,35 @@
+{
+    "name": "Chili #10",
+    "description": "Girl absentminded.",
+    "image": "ipfs://QmTEftae1ARwMF62qYAC7472uUb5Xnca6Kc6uALegHdFYD",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #000000, #c89116"
+      },
+      {
+        "trait_type": "skin",
+        "value": "vanilla skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Polka dot"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Confused eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bewildered"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black headband with white bow"
+      }
+    ]
+  }

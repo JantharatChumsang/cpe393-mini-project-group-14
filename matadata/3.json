@@ -1,0 +1,35 @@
+{
+    "name": "Chili #3",
+    "description": "The anxious girl is in a state of careworn",
+    "image": "ipfs://QmTAuUJukYSreKi2c1DThFNftpkSLCmaSyistFxmFrZD1e",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #5de0e6, #004aad"
+      },
+      {
+        "trait_type": "skin",
+        "value": "vanilla skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Red round ball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sad eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LightSalmon"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Open mouth and see teeth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Uncomfortable "
+      }
+    ]
+  }

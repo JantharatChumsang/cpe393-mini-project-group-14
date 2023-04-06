@@ -1,0 +1,35 @@
+{
+    "name": "Chili #18",
+    "description": "Uncomfortable, Patient, Repressive",
+    "image": "ipfs://QmedRmhMzrXyHNCR3YjXwpq36RTnUD3AiFRx58236gVCtF",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #5de0e6, #004aad"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Polka dot"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Big eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "LightSalmon"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Bewildered"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow headband with small heart pattern"
+      }
+    ]
+  }
