@@ -1,0 +1,35 @@
+{
+    "name": "Chili #05",
+    "description": "Angry but can't do anything come out only Facial expressions",
+    "image": "ipfs://QmdSokkN4NYCwK9FajEQECGzJiX9LeMBxNUHw41CAJJioP",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #ff66c4, #ffde59"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Fair skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Red round ball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sad eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Yellow headband with small heart pattern"
+      }
+    ]
+  }

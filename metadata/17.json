@@ -1,0 +1,35 @@
+{
+    "name": "Chili #17",
+    "description": "Confused girl",
+    "image": "ipfs://QmUFDe89FEfvJPw3C9w9izQ32mMKRFsPJc9FzAE7KBzRLx",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #ffde59, #ff914d"
+      },
+      {
+        "trait_type": "skin",
+        "value": "vanilla skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Red round ball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Confused eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Burgundy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Uncomfortable"
+      }
+    ]
+  }

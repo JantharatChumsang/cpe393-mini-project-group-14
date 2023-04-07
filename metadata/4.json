@@ -1,0 +1,35 @@
+{
+    "name": "Chili #4",
+    "description": "A girl is shocked by some event",
+    "image": "ipfs://QmdXhD3S7TvCtXBmHMxZmXqB7Y2CTDh229aZb7Yo1zaSVL",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "linear-gradient 90; #ff66c4, #ffde59"
+      },
+      {
+        "trait_type": "skin",
+        "value": "Fair skin"
+      },
+      {
+        "trait_type": "Earing",
+        "value": "Red round ball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Big eyes"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Grumpy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black headband with white bow"
+      }
+    ]
+  }
